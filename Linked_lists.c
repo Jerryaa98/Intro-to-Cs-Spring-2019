@@ -1,6 +1,5 @@
 /*********************************************
-Student One (GIRIES ABU AYOUB + 318156171)
-Student Two (SAMEER HABIB + 315844753)
+Student One (GIRIES ABU AYOUB)
 Assignment number: 7
 Exercise number: 1
 ********************************************/
@@ -166,24 +165,3 @@ int main()
 
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
